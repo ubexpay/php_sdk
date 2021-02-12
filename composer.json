@@ -1,5 +1,5 @@
 {
-    "name": "adel27s/ubexpay_sdk",
+    "name": "ubexpay/php_sdk",
     "description": "Ubexpay gateway PHP SDK",
     "type": "library",
     "license": "MIT",
@@ -20,5 +20,8 @@
         "psr-4": {
             "UbexPay\\": "src/"
         }
+    },
+    "require-dev": {
+        "apigen/apigen": "^4.1"
     }
 }
