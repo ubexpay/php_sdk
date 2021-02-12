@@ -1,0 +1,6 @@
+composer.phar
+/vendor/
+*.zip
+/UbexPay_sdk
+.phpdoc
+phpDocumentor.phar

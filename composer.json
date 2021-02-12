@@ -1,0 +1,24 @@
+{
+    "name": "adel27s/ubexpay_sdk",
+    "description": "Ubexpay gateway PHP SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AdelBenlakhdar",
+            "email": "adel.benlakhdar@gmail.com"
+        },
+        {
+            "name": "AMWOLLO VICTOR",
+            "email": "amwollo@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "UbexPay\\": "src/"
+        }
+    }
+}
