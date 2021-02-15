@@ -1,5 +1,8 @@
 ## UbexPay PHP SDK
-UbexPay Payment PHP SDK
+UbexPay Payment PHP SDK 
+
+## Please visit API Docs on https://docs.ubexpay.com
+
 ## Installation
 ### Using Composer
 Run **composer require ubexpay/php_sdk**  
