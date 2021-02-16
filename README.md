@@ -1,5 +1,5 @@
 ## UbexPay PHP SDK
-UbexPay Payment PHP SDK 
+UbexPay cash management PHP SDK 
 
  Please visit API Docs on https://docs.ubexpay.com
 
